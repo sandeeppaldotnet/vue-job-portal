@@ -1,4 +1,4 @@
-# Vue Jobs Project (YouTube)
+# Vue Jobs Portal 
 
 This is the jobs listing project :https://vue-devjob-portal.netlify.app
 
